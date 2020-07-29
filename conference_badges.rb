@@ -15,7 +15,6 @@ def assign_rooms(arr)
   new_arr = []
   counter = 1
   arr.each do |name|
-    
     new_arr.push("Hello, #{name}! You'll be assigned to room #{counter}!")
     counter +=1
   end
