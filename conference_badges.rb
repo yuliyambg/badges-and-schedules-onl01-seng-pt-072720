@@ -12,5 +12,7 @@ end
 end
 
 def assign_rooms(arr)
+  new_arr = []
   
+  return new_arr
 end
