@@ -11,5 +11,6 @@ end
   return new_arr
 end
 
-def assign_rooms
+def assign_rooms(arr)
+  
 end
