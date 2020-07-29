@@ -5,6 +5,7 @@ end
 
 def batch_badge_creator(arr)
   new_arr = []
+  
   new_arr.push
   return new_arr
 end
